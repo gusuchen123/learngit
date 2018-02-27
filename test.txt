@@ -1,4 +1,5 @@
 add test.txt
 Creating a new branch is quick and simple.
-add a erge
+add a merge
 working working
+I am working in dev enviroment
